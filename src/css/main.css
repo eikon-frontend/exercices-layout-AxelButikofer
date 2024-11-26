@@ -15,3 +15,14 @@ img,
 video {
   display: block;
 }
+
+.icon {
+  fill: #670784;
+  background: red;
+  display: inline;
+}
+
+body {
+  display: flex;
+  justify-content: space-between;
+}
